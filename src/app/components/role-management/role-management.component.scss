@@ -1,0 +1,17 @@
+.role-management {
+    .role-table {
+        width: 96%;
+        border-collapse: collapse;
+        table-layout: auto;
+
+        th,
+        td {
+            text-align: center;
+        }
+
+        th {
+            background-color: #f5f5f5;
+            font-weight: bold;
+        }
+    }
+}
